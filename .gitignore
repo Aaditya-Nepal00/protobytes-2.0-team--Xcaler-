@@ -50,3 +50,7 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Not tracked for initial hackathon push
+frontend/
+Sachet Logo/
