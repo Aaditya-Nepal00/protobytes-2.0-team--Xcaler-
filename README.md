@@ -24,6 +24,7 @@ Sachet is a unified transparency platform providing real-time project tracking, 
 
 ### Backend Stack
 - **Framework**: Flask 3.0 (Python 3.11+) - Lightweight, flexible, fast development.
+- **Database**: SQLite + SQLAlchemy ORM - Relational data management with powerful querying.
 
 ### Frontend Stack
 - **Framework**: React 18 + TypeScript - Type safety, component reusability, large ecosystem.
@@ -65,13 +66,3 @@ Sachet is a unified transparency platform providing real-time project tracking, 
    npm install
    npm run dev
    ```
-
-## Demo Credentials
-- **Username**: `demo@example.com`
-- **Password**: `demo123`
-
-## Screenshots/Demo
-*(Add screenshots or demo video link here)*
-
----
-*Developed for Protobytes Hackathon 2.0*
