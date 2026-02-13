@@ -16,6 +16,7 @@ class Config:
 class DevelopmentConfig(Config):
     """Development configuration"""
     DEBUG = True
+    # Explicitly use the backend/sachet.db file to avoid instance folder confusion
     SQLALCHEMY_DATABASE_URI = os.getenv(
         'DATABASE_URL',
         'sqlite:///' + os.path.join(basedir, 'sachet.db')
