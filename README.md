@@ -18,7 +18,24 @@ Sachet is a unified transparency platform providing real-time project tracking, 
   - **Anonymous Corruption Reporting**: Secure, encrypted portal for citizens to report malpractice.
   - **Simplified Laws**: A "translated" legal library that makes complex acts understandable for laymen.
   - **Budget Visualization**: Interactive charts showing where national and local funds are allocated.
-  - **Community Forum**: A Reddit-style discussion hub for civic engagement and voting.
+- **Community Forum**: A Reddit-style discussion hub for civic engagement and voting.
+
+## Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="frontend/public/assets/img1.png" width="250" alt="Home Screen"/></td>
+      <td><img src="frontend/public/assets/img2.png" width="250" alt="Projects Dashboard"/></td>
+      <td><img src="frontend/public/assets/img3.png" width="250" alt="Budget Visualization"/></td>
+    </tr>
+    <tr>
+      <td><img src="frontend/public/assets/img4.png" width="250" alt="Corruption Report"/></td>
+      <td><img src="frontend/public/assets/img5.png" width="250" alt="Legal Library"/></td>
+      <td><img src="frontend/public/assets/img6.png" width="250" alt="Community Forum"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Technical Stack
 
