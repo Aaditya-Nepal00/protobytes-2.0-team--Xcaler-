@@ -25,14 +25,15 @@ Sachet is a unified transparency platform providing real-time project tracking, 
 <div align="center">
   <table>
     <tr>
-      <td><img src="frontend/public/assets/img1.png" width="250" alt="Home Screen"/></td>
-      <td><img src="frontend/public/assets/img2.png" width="250" alt="Projects Dashboard"/></td>
-      <td><img src="frontend/public/assets/img3.png" width="250" alt="Budget Visualization"/></td>
+      <td><img src="frontend/public/assets/Project.png" width="350" alt="Projects Dashboard"/><br/><b>Projects Dashboard</b></td>
+      <td><img src="frontend/public/assets/Report.png" width="350" alt="Corruption Report"/><br/><b>Corruption Report</b></td>
     </tr>
     <tr>
-      <td><img src="frontend/public/assets/img4.png" width="250" alt="Corruption Report"/></td>
-      <td><img src="frontend/public/assets/img5.png" width="250" alt="Legal Library"/></td>
-      <td><img src="frontend/public/assets/img6.png" width="250" alt="Community Forum"/></td>
+      <td><img src="frontend/public/assets/Laws.png" width="350" alt="Legal Library"/><br/><b>Legal Library</b></td>
+      <td><img src="frontend/public/assets/Forum.png" width="350" alt="Community Forum"/><br/><b>Community Forum</b></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="frontend/public/assets/Tenders.png" width="350" alt="Tenders Portal"/><br/><b>Tenders Portal</b></td>
     </tr>
   </table>
 </div>
